@@ -10,5 +10,5 @@ This repository contains a simple example of a website with HTML, CSS, and JavaS
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/website-example.git
+   git clone https://github.com/your-Sanjayverma1234/small-project.git
 
